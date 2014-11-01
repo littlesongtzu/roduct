@@ -1,5 +1,5 @@
 <?php
 echo '<title></title>';
-echo </hr>
+echo </br>
 >
 
